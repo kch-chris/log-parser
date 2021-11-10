@@ -1,0 +1,17 @@
+{
+    "name": "christian.murillo/cto_test",
+    "description": "Test Task",
+    "authors": [
+        {
+            "name": "Christian Murillo",
+            "email": "ing.chmurillo@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "mvar/log-parser": "^1.0",
+        "mvar/apache2-log-parser": "dev-master",
+        "ua-parser/uap-php" : "*",
+        "donatj/phpuseragentparser": "dev-master"
+    }
+}
